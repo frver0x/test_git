@@ -8,7 +8,7 @@ def ma_second_fonction(inuput_string2: str) -> str:
 print("Hello from test.py")
 
 ekdrnjograhlgr
-rg
+MaFOcntion
 rag,kglronhragnograùr
 grrgkngrojigrmagr
 grngrngrùg
