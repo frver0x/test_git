@@ -1,4 +1,4 @@
-print("Hello world")
+def ma_second_fonction(inuput_string2: str) -> str:
+    return inuput_string2[::-1]
 
-def mafonction(input_string: str) -> str:
-    return "Voici l'input " + input_string
+print("Hello from test.py")
