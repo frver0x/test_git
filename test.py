@@ -9,6 +9,7 @@ print("Hello from test.py")
 
 ekdrnjograhlgr
 MaFOcntion
+skibidi fortnite skibidi fortnite
 rag,kglronhragnograùr
 grrgkngrojigrmagr
 grngrngrùg
